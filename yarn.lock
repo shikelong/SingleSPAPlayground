@@ -839,9 +839,9 @@ angular-ui-router@^1.0.22:
   dependencies:
     "@uirouter/core" "5.0.23"
 
-angular@^1.7.8:
-  version "1.7.8"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.7.8.tgz#b77ede272ce1b261e3be30c1451a0b346905a3c9"
+angular@^1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
 
 ansi-regex@^2.0.0:
   version "2.1.1"
